@@ -10,7 +10,7 @@
 # Devel::Cover
 cover_db/
 
-# Devel::NYTProf
+# Devel::NYTProfds
 nytprof.out
 
 # Dizt::Zilla
